@@ -1,1 +1,21 @@
-{"name":"greyn-vercel","version":"1.0.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"^13.5.4","react":"^18.2.0","react-dom":"^18.2.0","tailwindcss":"^3.3.2","postcss":"^8.4.24","autoprefixer":"^10.4.14","crypto-js":"^4.1.1","idb-keyval":"^6.2.0","axios":"^1.6.5"}}
+{
+  "name": "greyn-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.2",
+    "postcss": "^8.4.24",
+    "autoprefixer": "^10.4.14",
+    "crypto-js": "^4.1.1",
+    "idb-keyval": "^6.2.0",
+    "axios": "^1.6.5"
+  }
+}
